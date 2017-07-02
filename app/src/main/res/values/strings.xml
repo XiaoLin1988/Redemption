@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Redemption</string>
+    <string name="tab_badge">Badge</string>
+    <string name="tab_qr">QR scan</string>
+    <string name="tab_cart">Shop</string>
+    <string name="tab_history">History</string>
+    <string name="tab_news">News</string>
+
+    <string name="scan_bar_code"></string>
+</resources>

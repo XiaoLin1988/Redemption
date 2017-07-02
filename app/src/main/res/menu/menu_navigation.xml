@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_badge"
+        android:color="@color/colorPrimary"
+        android:icon="@mipmap/ic_tab_badge"
+        android:title="@string/tab_badge" />
+    <item
+        android:id="@+id/nav_qr"
+        android:color="@color/colorPrimary"
+        android:icon="@mipmap/ic_tab_qr"
+        android:title="@string/tab_qr" />
+    <item
+        android:id="@+id/nav_cart"
+        android:color="@color/colorPrimary"
+        android:icon="@mipmap/ic_tab_cart"
+        android:title="@string/tab_cart" />
+    <item
+        android:id="@+id/nav_history"
+        android:color="@color/colorPrimary"
+        android:icon="@mipmap/ic_tab_history"
+        android:title="@string/tab_history" />
+    <item
+        android:id="@+id/nav_news"
+        android:color="@color/colorPrimary"
+        android:icon="@mipmap/ic_tab_news"
+        android:title="@string/tab_news" />
+</menu>
